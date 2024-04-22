@@ -1,0 +1,16 @@
+.full{
+    height: 20rem;
+    width: 20rem;
+    background-color: rgb(127, 208, 211);
+}
+
+.game-boarder{
+    height: 10rem;
+    width: 10rem;
+}
+
+
+h3{
+    color:red;
+}
+
